@@ -29,4 +29,4 @@ for filepath in filepaths:
     pdf.multi_cell(w=0, h=6, txt=content)
 
 # Produce the PDF
-pdf.output("output.pdf")
+pdf.output("Student-Exx2/output.pdf")
